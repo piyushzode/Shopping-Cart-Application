@@ -1,0 +1,76 @@
+#loginPage {
+  margin: auto;
+  width: 34%;
+  float: center;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid lightslategray;
+}
+
+.Button_class {
+  padding: 5px 10px 5px !important;
+  font-size: 15px !important;
+  background-color: #2894E3;
+  color: #ffffff;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border: 1px solid #333;
+  font-style: oblique;
+  float: center;
+}
+
+#registerPage {
+  margin: auto;
+  width: 60%;
+  height: inherit;
+  float: center;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid lightslategray;
+}
+
+.centerLogin {
+  margin: auto;
+  width: 60%;
+  border-radius: 3px;
+  background-color: #fff;
+  padding: 15px;
+  height: inherit;
+  
+}
+
+#searchPage
+{
+  margin: auto;
+  width: 60%;
+  height: inherit;
+  float: center;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid lightslategray;
+}
+
+
+#cartPage
+{
+  width:38%;
+  background-color: #eee;
+  float: left;
+  border-radius: 5px;
+  overflow: scroll;
+}
+
+.user-form { padding:20px; }
+
+.user-form .field { padding: 4px; margin:1px; background: #fff; }
+
+.user-form .field label { display:inline-block; width:120px; margin-left:5px; }
+
+.user-form .field input { display:inline-block; }
